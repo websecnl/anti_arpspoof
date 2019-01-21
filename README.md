@@ -3,7 +3,7 @@ Detection Tool for ARP Spoof Attack's
 
 Python Interperter Version: 2.7.11
 
-Usage: python ./anti_python.py
+Usage: python ./anti_arpspoof.py
 
 Enter Default Gateway IP to start monitoring
 
